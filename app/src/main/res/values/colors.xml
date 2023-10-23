@@ -4,4 +4,12 @@
     <color name="white">#E3E3E3</color>
     <color name="blue">#FF03A9F4</color>
     <color name="purple">#FF673AB7</color>
+    <color name="app_background">#33284E</color>
+    <color name="main_text_color">#E6DAFF</color>
+    <color name="info_text_color">#D9C8FF</color>
+    <color name="card_backgroud_color">#1A132B</color>
+    <color name="location_color">#8E63EE</color>
+    <color name="ports_color">#A680FA</color>
+    <color name="ports_color_yellow">#F5CA31</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>

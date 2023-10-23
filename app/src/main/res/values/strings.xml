@@ -2,4 +2,5 @@
     <string name="app_name">My Application</string>
     <string name="app_hello">Hello Application</string>
     <string name="app_greet">Hello, my name is Aslan</string>
+    <string name="change_location"> <u>Change Location</u></string>
 </resources>
